@@ -1,0 +1,8 @@
+C:\Users\Ibrahim\source\repos\FiguresApp\FiguresApp\bin\Debug\FiguresApp.exe.config
+C:\Users\Ibrahim\source\repos\FiguresApp\FiguresApp\bin\Debug\FiguresApp.exe
+C:\Users\Ibrahim\source\repos\FiguresApp\FiguresApp\bin\Debug\FiguresApp.pdb
+C:\Users\Ibrahim\source\repos\FiguresApp\FiguresApp\obj\Debug\FiguresApp.csproj.AssemblyReference.cache
+C:\Users\Ibrahim\source\repos\FiguresApp\FiguresApp\obj\Debug\FiguresApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ibrahim\source\repos\FiguresApp\FiguresApp\obj\Debug\FiguresApp.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\FiguresApp\FiguresApp\obj\Debug\FiguresApp.exe
+C:\Users\Ibrahim\source\repos\FiguresApp\FiguresApp\obj\Debug\FiguresApp.pdb
